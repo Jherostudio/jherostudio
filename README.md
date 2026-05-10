@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Jheros</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00BFFF&height=240&section=header&text=JHERO%20STUDIO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20DEVELOPMENT%20•%20CYBERSECURITY&descAlignY=60"/>
+  <img src="Banner.png" width="100%" />
 </p>
 
 ---
