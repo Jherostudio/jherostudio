@@ -24,7 +24,6 @@ Founder of Jheros Studio;
 <img src="https://img.shields.io/badge/COFFEE%20%3E%20CODE-552200?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
 
 </p>
----
 
 # 🌐 Connect With Me
 
