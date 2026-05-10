@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Jheros</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI+Developer;Cybersecurity+Enthusiast;Founder+of+Jheros+Studio" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00BFFF&height=240&section=header&text=JHERO%20STUDIO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20•%20DEVELOPMENT%20•%20CYBERSECURITY&descAlignY=60"/>
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 <p align="left">
 
-<a href="https://github.com/jherostudio">
+<a href="https://github.com/Jherostudio">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -47,9 +47,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jherostudio&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jherostudio&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jherostudio&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jherostudio&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -58,7 +58,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jherostudio&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Jherostudio&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 # 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=jherostudio&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Jherostudio&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
