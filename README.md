@@ -3,16 +3,27 @@
 </p>
 
 ---
-
-# 💫 About Me
+<h1 align="left">
+Hey 👋, I'm <span style="color:#1E90FF">Jheros</span>
+</h1>
 
 ```txt
-💻 Software Engineering Student
-🚀 Building apps, AI tools & creative projects
-⚡ Cybersecurity • Web Development • Mobile Apps
-🎧 Founder of Jheros Studio
+Software Engineering Student; AI Developer; Cybersecurity Enthusiast;
+Founder of Jheros Studio;
 ```
+<p align="left">
 
+<img src="https://img.shields.io/badge/AI-DEVELOPER-0A66FF?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-EXPERT-111111?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OPEN_SOURCE-LOVER-FF8800?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CODE-EVERYDAY-7A00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/COFFEE%20%3E%20CODE-552200?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
+
+</p>
 ---
 
 # 🌐 Connect With Me
