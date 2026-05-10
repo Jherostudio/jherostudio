@@ -1,5 +1,3 @@
-<h1 align="center">Hey 👋, I'm Jheros</h1>
-
 <p align="center">
   <img src="Banner.png" width="100%" />
 </p>
