@@ -54,13 +54,9 @@ Founder of Jheros Studio;
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jherostudio&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jherostudio&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.com/api?username=Jherostudio&theme=tokyonight&show_icons=true&hide_border=true" alt="Jherostudio Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.com/api/top-langs/?username=Jherostudio&theme=tokyonight&layout=compact&hide_border=true" alt="Jherostudio Languages" width="48%" />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
