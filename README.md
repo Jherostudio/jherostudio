@@ -32,7 +32,9 @@ Founder of Jheros Studio;
 <a href="https://github.com/Jherostudio">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="mailto:contac@jherostudio.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 <a href="https://www.behance.net/JheroGom">
 <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
