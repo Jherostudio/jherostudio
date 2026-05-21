@@ -66,13 +66,31 @@ Founder of Jheros Studio;
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects & Products
 
-- 🤖 AI Tools
-- 🎵 Lofi Generator
-- 📱 Mobile Apps
-- 🔐 Cybersecurity Projects
+A selection of production-ready software, digital tools, and architectural systems developed under the engineering standards of **Jhero Studio**.
 
+---
+
+### 🔐 Cybersecurity Projects
+
+* **[Crypto Guardian CLI](https://github.com/Jherostudio/crypto-guardian-cli)** <img src="https://img.shields.io/npm/v/crypto-guardian-cli?style=flat-square&color=238636" alt="npm version" align="center">
+  <br>An interactive TypeScript Command Line Interface for secure password generation and hardware-backed AES-256-GCM data encryption. 100% offline and dependency-free.
+    *Tech Stack: `TypeScript` | `Node.js` | `Crypto API` | `GPG Signed`*
+
+### 📱 Mobile Apps
+* **Finova (In Development)**
+    A minimalist, high-performance personal finance application designed for seamless expense management, featuring clean UI/UX paradigms and secure local data state.
+    *Tech Stack: `Flutter` | `Dart` | `Firebase` | `Riverpod`*
+
+### 🤖 AI Tools & Generative Audio
+* **AI Agent Orchestrator**
+    Advanced contextual AI tools leveraging Google Gemini APIs, automated structured prompts, and cloud infrastructure integration for autonomous tasks.
+    *Tech Stack: `Python` | `Node.js` | `Gemini API` | `Stripe`*
+
+* **Lofi Dynamic Generator**
+    An algorithmic audio structure tool focused on synthesizing minimal lofi ambient soundscapes for deep focus and digital content asset pipelines.
+    *Tech Stack: `Node.js` | `Web Audio API`*
 ---
 
 # 👀 Profile Views
